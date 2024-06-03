@@ -2,9 +2,6 @@ package com.sparta.hellospring.service;
 
 import com.sparta.hellospring.domain.Member;
 import com.sparta.hellospring.repository.MemberRepository;
-import com.sparta.hellospring.repository.MemoryMemberRepository;
-import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
